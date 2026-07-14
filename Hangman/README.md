@@ -11,4 +11,4 @@ Win by guessing all the letters in a word, lose by getting a letter in the word 
 
 If you're interested in how I made this, see the non-minimized version.
 If you just want to play the game on the original hardware or an emulator, use the minimized version.
-The minimized version will take 3 blocks of space on your СМП-10.
+The minimized version will take 3 blocks of space on your МПО-10.
