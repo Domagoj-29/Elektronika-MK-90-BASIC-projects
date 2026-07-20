@@ -2,7 +2,7 @@ Hangman by Domagoj29
 
 Entering a word:
 Enter a word only using up to 20 uppercase letters in the latin script register.
-Press ЗБ to try entering the word again (if you made a mistake).
+If you made a mistake, press ЗБ to try entering the word again.
 Press ВК to confirm the word (if the word is 20 letters long, it gets confirmed automatically).
 
 Guessing the word:
